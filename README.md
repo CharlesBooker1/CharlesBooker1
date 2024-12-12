@@ -16,7 +16,9 @@
   - [Practicing Project Part 3](https://github.com/)
 - <b>Project 5 [Place Holder] </b>
   - [Practicing Project](https://github.com/)
-<h2>📺 YouTube Video Labs and Projects </h2>
+<h2>🌱 I’m currently learning </h2>
+  - 💬 Cloud Computing 
+<h2>📺 YouTube Videos Labs and Projects </h2>
 
 - Coming Soon!
   
