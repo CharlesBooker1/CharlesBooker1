@@ -1,6 +1,6 @@
 <h1>Hi, I'm Charles! <br/><a href="https://github.com/CharlesBooker1"></a> <a href="https://www.linkedin.com/in/charles-booker/">Technology Professional</a>, </h1>
 
-<h2>👨‍💻 Information Technology Projects:</h2>
+<h2>👨‍💻💻 Information Technology Projects:</h2>
 
 - <b>Project 1 [Place Holder] </b>
   - [Practicing Project](https://github.com/)
