@@ -3,7 +3,7 @@
 <h2>👨‍💻💻 Information Technology Projects:</h2>
 
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
+  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
 - <b>Project 2 [Place Holder] </b>
   - [Practicing Project](https://github.com/)
 - <b>Project 3 [Place Holder]</b>
