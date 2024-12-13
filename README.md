@@ -4,18 +4,16 @@
 
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
-- <b>Project 2 [Place Holder] </b>
-  - [Practicing Project](https://github.com/)
+  - [Practicing Project Part 1](https://github.com/)
+  - [Practicing Project Part 2](https://github.com/)
+- <b>osTicket (Help Desk Ticketing System)</b>
+  - [Practicing Project Part 1](https://github.com/)
+  - [Practicing Project Part 2](https://github.com/)
+  - [Practicing Project Part 3](https://github.com/)
 - <b>Project 3 [Place Holder]</b>
   - [Practicing Project Part 1](https://github.com/)
   - [Practicing Project Part 2](https://github.com/)
   - [Practicing Project Part 3](https://github.com/)
-- <b>Project 4 [Place Holder]</b>
-  - [Practicing Project Part 1](https://github.com/)
-  - [Practicing Project Part 2](https://github.com/)
-  - [Practicing Project Part 3](https://github.com/)
-- <b>Project 5 [Place Holder] </b>
-  - [Practicing Project](https://github.com/)
 <h2>🌱 I’m currently learning </h2>
   - 💬 Cloud Computing 
 <h2>📺 YouTube Videos Labs and Projects </h2>
