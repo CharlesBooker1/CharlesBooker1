@@ -2,20 +2,23 @@
 
 <h2>👨‍💻💻 Information Technology Projects:</h2>
 
-- <b>Microsoft Azure</b>
-  - [Configuring On-premises Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
-  - [Practicing Project Part 1](https://github.com/)
-  - [Practicing Project Part 2](https://github.com/)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/)
   - [osTicket: Post-Installation Configuration](https://github.com/)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/)
-- <b>Project 3 [Place Holder]</b>
-  - [Practicing Project Part 1](https://github.com/)
-  - [Practicing Project Part 2](https://github.com/)
-  - [Practicing Project Part 3](https://github.com/)
+- <b>Microsoft Azure</b>
+  - [Basics of Azure Portal](https://github.com/)
+  - [Creating a Virtual Machine Network in Azure and Inspecting Network Protocol](https://github.com/)
+- <b>Active Directory</b>
+  - [Installing and Configuring Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
+  - [Understanding and Building Intuition for DNS](https://github.com/)
+  - [Network Fileshare and Permisions in Active Directory](https://github.com/)
+- <b>Virtual Private Networks (VPN)</b>
+  - [Understanding and Installing Virtual Private Networks](https://github.com/)
 <h2>🔭 I’m currently working on: </h2>
-  - 💬 Cloud Computing 
+  - Comptia A+
+  - Network+
+  - Security+
 <h2>📺 YouTube Videos Labs and Projects </h2>
 
 - Coming Soon!
