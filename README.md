@@ -7,9 +7,9 @@
   - [Practicing Project Part 1](https://github.com/)
   - [Practicing Project Part 2](https://github.com/)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [Practicing Project Part 1](https://github.com/)
-  - [Practicing Project Part 2](https://github.com/)
-  - [Practicing Project Part 3](https://github.com/)
+  - [osTicket: Prerequisites and Installation](https://github.com/)
+  - [osTicket: Post-Installation Configuration](https://github.com/)
+  - [osTicket: Ticket Lifecycle Examples](https://github.com/)
 - <b>Project 3 [Place Holder]</b>
   - [Practicing Project Part 1](https://github.com/)
   - [Practicing Project Part 2](https://github.com/)
