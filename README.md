@@ -16,9 +16,9 @@
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/)
 <h2>🔭 I’m currently working on: </h2>
-  - Comptia A+
-  - Network+
-  - Security+
+  - [Comptia A+]
+  - [Network+]
+  - [Security+]
 <h2>📺 YouTube Videos Labs and Projects </h2>
 
 - Coming Soon!
