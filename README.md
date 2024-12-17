@@ -11,7 +11,7 @@
   - [Creating Network Security Groups and Inspecting Network Protocol](https://github.com/CharlesBooker1/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
-  - [Understanding and Building Intuition for DNS](https://github.com/)
+  - [Understanding and Building Intuition for DNS](https://github.com/CharlesBooker1/Understanding-and-Building-Intuition-For-DNS)
   - [Network Fileshare and Permisions in Active Directory](https://github.com/CharlesBooker1/Network-File-Share-and-Permissions)
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/CharlesBooker1/Understanding-and-Installing-Virtual-Private-Networks)
