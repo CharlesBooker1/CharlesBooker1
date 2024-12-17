@@ -14,7 +14,7 @@
   - [Understanding and Building Intuition for DNS](https://github.com/)
   - [Network Fileshare and Permisions in Active Directory](https://github.com/CharlesBooker1/Network-File-Share-and-Permissions)
 - <b>Virtual Private Networks (VPN)</b>
-  - [Understanding and Installing Virtual Private Networks](https://github.com/)
+  - [Understanding and Installing Virtual Private Networks](https://github.com/CharlesBooker1/Understanding-and-Installing-Virtual-Private-Networks)
 <h2>🔭 I’m currently working on: </h2>
   - Comptia A+ | Network+ | Security+
 <h2>📺 YouTube Videos Labs and Projects </h2>
