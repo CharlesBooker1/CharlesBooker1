@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/CharlesBooker1/osTicket-Post-Installation-Configuration)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/CharlesBooker1/osTicket-Ticket-Lifecycle-Examples)
 - <b>Microsoft Azure</b>
-  - [Basics of Azure Portal](https://github.com/)
+  - [Basics of Azure Portal](https://github.com/CharlesBooker1/Basics-of-Azure-Portal)
   - [CCreating Network Security Groups and Inspecting Network Protocol](https://github.com/CharlesBooker1/Network-Security-Groups-NSGs-and-Inspecting-Network-Protocols)
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
