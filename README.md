@@ -12,7 +12,7 @@
 - <b>Active Directory</b>
   - [Installing and Configuring Active Directory within Azure Virtual Machines](https://github.com/CharlesBooker1/Configure-Active-Directory/)
   - [Understanding and Building Intuition for DNS](https://github.com/)
-  - [Network Fileshare and Permisions in Active Directory](https://github.com/)
+  - [Network Fileshare and Permisions in Active Directory](https://github.com/CharlesBooker1/Network-File-Share-and-Permissions)
 - <b>Virtual Private Networks (VPN)</b>
   - [Understanding and Installing Virtual Private Networks](https://github.com/)
 <h2>🔭 I’m currently working on: </h2>
